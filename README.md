@@ -1,4 +1,5 @@
 ## Uploading and processing the Excel file in Django
+Note: this repo starts from anuragrana (http://github.com/anuragrana) repo. Thank you.
 
 - Clone this repo to your system.
 
